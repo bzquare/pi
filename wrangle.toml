@@ -1,8 +1,0 @@
-name = "pi"
-main = "src/worker.js"
-compatibility_date = "2024-11-01"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "pi"
-database_id = "9d358832-e78e-4bda-8c9b-a506b7b47a13"   # นำค่าจากขั้นตอน create มาแทน
